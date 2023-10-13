@@ -1,4 +1,5 @@
 # Multivariate_Multiomics
+Sanjeevani & Amon :)
 
 Compaere the methods used to anlayze multiomics 
 * metagenomics: composition of community
