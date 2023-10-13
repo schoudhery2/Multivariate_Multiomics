@@ -31,4 +31,4 @@ GOAL:
 * ICA is new. whereas PCA and (s)PLS-DA is used a lot -> maybe some recommendation
 
 Assessing : Clustering, Feature Selection, INterpretation/visualization
-* Kmeans, Hclust, ANOVA
+* Kmeans, Hclust, ANOVAs
